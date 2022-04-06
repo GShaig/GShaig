@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GShaig
+- 👋 Hi, I’m Shaig
 - 👀 I’m interested in Web Application Development and Data Science.
 - 🌱 I’m currently learning Python Django Framework.
 - 💞️ I’m looking to collaborate on Complex AI Projects in Python.
