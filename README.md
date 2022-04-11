@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shaig
 - 👀 I’m interested in Web Application Development and Data Science.
-- 🌱 I’m currently learning Python Django Framework.
-- 💞️ I’m looking to collaborate on Complex AI Projects in Python.
+- 🌱 I’m currently learning Python Django framework.
+- 💞️ I’m looking to collaborate on complex AI projects in Python.
 - 📫 You can reach me by email on gafarlishaig@gmail.com
 
 <!---
