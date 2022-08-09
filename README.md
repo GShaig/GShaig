@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaig
-- 👀 I’m interested in Web Application Development and Data Science.
-- 💞️ I’m looking to collaborate on complex AI projects in Python.
+- 👀 I’m interested in Web Application Development and Data Engineering.
+- 💞️ I’m looking to collaborate on complex and problem solver Web Application projects.
 - 📫 You can reach me by email on gafarlishaig@gmail.com
 
 <!---
